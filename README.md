@@ -41,7 +41,3 @@ Je suis actuellement dans une phase de **découverte** des concepts, des outils 
 Ce projet marque le début d'une aventure dans le monde du design et du développement front-end. Chaque projet me rapprochera de ma vision : **progresser, m'amuser, et maîtriser les outils front-end**.
 
 Alooooooors, let’s dive right into the action 🚀 !
-
-Donc, aujourd'hui on découvre des concepts, outils et méthodes, en suivant un tuto, fake-it-until-you-make-it 
-
-Projet 1 : mettre un 1er pied dans l'animation d'éléments avec GSAP. On reproduit le site d'apple. Les ressources médias déjà crées, il nous reste à créer le projet, les pages, les composants, implémenter les ressources et apporter un peu d'animation avec GSAP. 
