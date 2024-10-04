@@ -11,21 +11,19 @@ Heureux à notre époque, si t'as envie de progresser dans un domaine, t'as 1000
 
 ### Motivation
 
-Me voilà sur Youtube entrain de créer une playlist de **projets intéressants**.
+Ce qui déclenche une émotion. 
 
-Que des trucs qui me plaisent : des univers de **marques**, des **sites web**, des **applications**, et même des **jeux**. 
+Je veux que mes lignes de code transmettent des **émotions**. 
 
-Des lignes de code transmettent des **émotions**. 
-
-Et c'est précisément ce que j'aime dans le développement : créer pour partager des émotions.
+C'est précisément ce que j'aime dans le développement : créer et partager des émotions.
 
 ### Objectif du Projet
 
-Ce projet est le **premier** d'une série 100% centrée sur le front-end .
+**Premier** d'une série 100% centrée sur le front-end .
 
-**Objectif principal** : Enchaîner les projets, bouffer du code, assimiler les concepts, **progresser**. 
+**Objectif principal** : découvrir les concepts, outils et méthodes d'un design exigeant
 
-Pour l’instant, je me concentre sur des **reproductions** de projets qui me plaisent personnellement.
+Pour l’instant, je me concentre sur des **reproductions** d'objets qui me plaisent personnellement : site, application, fonctionnalité, jeu...
 
 Au fil du temps, le projet va se structurer, avec une **vision** plus claire sur où je veux aller et pourquoi.
 
@@ -33,11 +31,9 @@ Au fil du temps, le projet va se structurer, avec une **vision** plus claire sur
 
 Chacun est libre d'adopter la démarche qui lui convient.
 
-La tienne sera pro-active et rigoureuse. Je découvre la mienne au gré des projets.
+La tienne sera pro-active et rigoureuse. 
 
-L'objectif #1 : bâtir un projet de A à Z pour mieux comprendre ce que cela implique, **en terme de compréhension des concepts, d'outil à découvrir, de méthodes à mettre en oeuvre,** afin de réaliser un site pro au design 5 étoiles.
-
-Pour le reste, *fake-it-until-you-make-it*.
+Pour l'instant, je découvre la mienne à mesure que je code.
 
 ### Projet 1 : Apple 
 
