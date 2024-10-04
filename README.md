@@ -2,35 +2,47 @@
 # Mon Parcours Front-End : Projet 1 - Reproduire le site d'Apple avec GSAP
 
 ### Introduction
-Je suis **nul en design**.
 
-En tant que débutant, je dois l’admettre, mes designs ne valent pas une cacahuète. Mais heureusement, à notre époque, l’accès à des ressources utiles pour s’entraîner est **illimité**.
+Je veux progresser en design.
 
-Avec du temps, on peut progresser. On va le découvrir ensemble.
+En tant que débutant, je reconnais que mes designs ne valent pas une cacahuète. 
+
+Heureux à notre époque, si t'as envie de progresser dans un domaine, t'as 1000000000 ressources plus ou moins utiles pour t’entraîner.
 
 ### Motivation
-Me voilà planté devant l'écran, prêt à créer ma playlist de **projets intéressants**.
 
-Ces projets incluent des **marques**, des **sites web**, des **applications**, et même des **jeux**. En résumé, ce sont des lignes de code qui me transmettent des **émotions**. Et c'est précisément ce qui me plaît dans le développement : les émotions.
+Me voilà sur Youtube entrain de créer une playlist de **projets intéressants**.
 
-Alors, plongeons dans l'action.
+Que des trucs qui me plaisent : des univers de **marques**, des **sites web**, des **applications**, et même des **jeux**. 
+
+Des lignes de code transmettent des **émotions**. 
+
+Et c'est précisément ce que j'aime dans le développement : créer pour partager des émotions.
 
 ### Objectif du Projet
-Ce projet est le **premier** d'une série de nombreux projets front-end.
 
-**Objectif principal** : Enchaîner les projets, plonger dans le code, assimiler des concepts et surtout **progresser**. Pour l’instant, je me concentre sur des **reproductions** de projets qui me plaisent personnellement.
+Ce projet est le **premier** d'une série 100% centrée sur le front-end .
 
-Au fil du temps, le projet s’étoffera, et ma **vision** deviendra plus claire : où je veux aller et pourquoi.
+**Objectif principal** : Enchaîner les projets, bouffer du code, assimiler les concepts, **progresser**. 
+
+Pour l’instant, je me concentre sur des **reproductions** de projets qui me plaisent personnellement.
+
+Au fil du temps, le projet va se structurer, avec une **vision** plus claire sur où je veux aller et pourquoi.
 
 ### Approche
-Évidemment, il existe des approches bien plus sophistiquées, avec des plans d’organisation rigoureux. Mais pour l’instant, je préfère la **flexibilité**. Mon but est de **prendre du plaisir**, de découvrir ce que c'est que d'être **bon en design**, et de me donner envie de continuer.
 
-Je suis actuellement dans une phase de **découverte** des concepts, des outils et des méthodes. Pour ce premier projet, je suis la méthode *fake-it-until-you-make-it*.
+Chacun est libre d'adopter la démarche qui lui convient.
 
-### Projet 1 : Animation avec GSAP
+La tienne sera pro-active et rigoureuse. Je découvre la mienne au gré des projets.
 
-- **But** : Mettre un premier pied dans l'animation front-end avec **GSAP**.
-- **Inspiration** : Reproduire le site d'Apple.
+L'objectif #1 : bâtir un projet de A à Z pour mieux comprendre ce que cela implique, **en terme de compréhension des concepts, d'outil à découvrir, de méthodes à mettre en oeuvre,** afin de réaliser un site pro au design 5 étoiles.
+
+Pour le reste, *fake-it-until-you-make-it*.
+
+### Projet 1 : Apple 
+
+- **But** : Réaliser un premier projet quelqu'il soit
+- **Inspiration** : l'univers Apple.
 - **Étapes** :
   1. Créer le projet et les pages.
   2. Construire les composants.
@@ -38,6 +50,5 @@ Je suis actuellement dans une phase de **découverte** des concepts, des outils 
   4. Ajouter de l'**animation** avec **GSAP**.
 
 ### Conclusion
-Ce projet marque le début d'une aventure dans le monde du design et du développement front-end. Chaque projet me rapprochera de ma vision : **progresser, m'amuser, et maîtriser les outils front-end**.
 
-Alooooooors, let’s dive right into the action 🚀 !
+Il est de temps de se mettre au travail 🚀 
