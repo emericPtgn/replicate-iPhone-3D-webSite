@@ -1,4 +1,5 @@
-# replicate-iPhone-3D-webSite
+# landing page inspiration apple
+
 # Mon Parcours Front-End : Projet 1 - Reproduire le site d'Apple avec GSAP
 
 ### Introduction
